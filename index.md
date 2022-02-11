@@ -1,4 +1,8 @@
 # Swordfish Games   
+## Official Swordfish Accounts:
+[Twitter](https://twitter.com/_swordfishgames)
+[itch.io](https://swordfishgames.itch.io)
+
 ## lotusfish:
 ### Programmer
 [Twitter](https://twitter.com/lotusfishhgames)  
