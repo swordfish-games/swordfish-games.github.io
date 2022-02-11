@@ -1,5 +1,4 @@
-# Swordfish Games  
-# Members:  
+# Swordfish Games   
 ## lotusfish:
 ### Programmer
 [Twitter](https://twitter.com/lotusfishhgames)  
