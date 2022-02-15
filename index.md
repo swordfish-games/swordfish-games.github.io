@@ -2,6 +2,7 @@
 ## Official Swordfish Accounts:
 [Twitter](https://twitter.com/_swordfishgames)
 [itch.io](https://swordfishgames.itch.io)
+[Reddit](https://reddit.com/u/swordfishgames)
 
 ## lotusfish:
 ### Programmer
