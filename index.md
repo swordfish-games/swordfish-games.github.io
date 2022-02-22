@@ -1,9 +1,12 @@
 # Swordfish Games   
 ## Official Swordfish Accounts:
 [Twitter](https://twitter.com/_swordfishgames)
+
 [itch.io](https://swordfishgames.itch.io)
+
 [Reddit](https://reddit.com/u/swordfishgames)
 
+[Twitch](https://twitch.tv/swordfishtank)
 ## lotusfish:
 ### Programmer
 [Twitter](https://twitter.com/lotusfishhgames)  
