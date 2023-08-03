@@ -9,12 +9,12 @@
 [Twitch](https://twitch.tv/swordfishtank)
 ## lotusfish:
 ### Programmer
-[Twitter](https://twitter.com/lotusfishhgames)  
-lotusfish#4448 on Discord  
+[Mastodon](https://mastodon.gamedev.place/@lotusfishh)  
+lotusfish on Discord  
 ## EliteLudanus  
 ### Artist  
 [Twitter](https://twitter.com/Elite_Ludanus)  
-Ludanus#5951 on Discord  
+Ludanus on Discord  
 ## Pogchamp06  
 ### Musician  
-Pogchamp06#7868 on Discord  
+Pogchamp06 on Discord  
